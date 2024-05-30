@@ -6,7 +6,7 @@
         "description": "Este curso ofrece una introducción sólida a los conceptos básicos de la programación, incluyendo algoritmos, estructuras de datos y principios de codificación. Adecuado para principiantes sin experiencia previa en programación.",
         "year": "2020",
         "area": "Informática",
-        "img": "img/curso1.jpg"
+        "img": "../img/intro-prog.jpg" 
     },
     {
         "id": "2",
@@ -15,7 +15,7 @@
         "description": "Explora técnicas avanzadas en diseño gráfico, incluyendo composición, tipografía, y manipulación de imágenes. Este curso es ideal para diseñadores gráficos con experiencia que deseen perfeccionar sus habilidades.",
         "year": "2019",
         "area": "Diseño",
-        "img": "img/curso2.jpg"
+        "img": "../img/diseño-grafico.jpg"
     },
     {
         "id": "3",
@@ -24,7 +24,7 @@
         "description": "Aprende a construir aplicaciones web completas desde cero utilizando tecnologías front-end y back-end. Este curso aborda HTML, CSS, JavaScript, Node.js, y bases de datos.",
         "year": "2021",
         "area": "Informática",
-        "img": "img/curso3.jpg"
+        "img": "../img/full-stack.jpg"
     },
     {
         "id": "4",
@@ -33,7 +33,7 @@
         "description": "Domina las estrategias y tácticas fundamentales para el éxito en el marketing digital. Este curso cubre SEO, publicidad en línea, email marketing, y análisis de datos.",
         "year": "2018",
         "area": "Negocios",
-        "img": "img/curso4.jpg"
+        "img": "../img/marketing-digital.png"
     },
     {
         "id": "5",
@@ -42,7 +42,7 @@
         "description": "Mejora tus habilidades de inglés específicamente en el contexto empresarial. Este curso se enfoca en vocabulario, expresiones y situaciones comunes en el ámbito corporativo.",
         "year": "2017",
         "area": "Idiomas",
-        "img": "img/curso5.jpg"
+        "img": "../img/ingles-negocios.png"
     },
     {
         "id": "6",
@@ -51,7 +51,7 @@
         "description": "Aprende técnicas avanzadas de fotografía, incluyendo composición, iluminación y postproducción. Este curso es adecuado tanto para fotógrafos aficionados como profesionales.",
         "year": "2019",
         "area": "Arte",
-        "img": "img/curso6.jpg"
+        "img": "../img/fotografia.jpg"
     },
     {
         "id": "7",
@@ -60,7 +60,7 @@
         "description": "Domina los conceptos básicos de las finanzas personales, incluyendo presupuestos, ahorro, inversión y planificación para el futuro financiero. Este curso es fundamental para el éxito financiero a largo plazo.",
         "year": "2020",
         "area": "Finanzas",
-        "img": "img/curso7.jpg"
+        "img": "../img/finanzas-personales.png"
     },
     {
         "id": "8",
@@ -69,7 +69,7 @@
         "description": "Explora los fundamentos de la inteligencia artificial, incluyendo algoritmos de aprendizaje automático y aplicaciones prácticas en campos como reconocimiento de patrones y procesamiento de lenguaje natural.",
         "year": "2021",
         "area": "Informática",
-        "img": "img/curso8.jpg"
+        "img": "../img/inteligencia-artificial.jpg"
     },
     {
         "id": "9",
@@ -78,7 +78,7 @@
         "description": "Este curso explora los principales conceptos y teorías en psicología del desarrollo, abordando el desarrollo físico, cognitivo, emocional y social a lo largo de la vida.",
         "year": "2016",
         "area": "Psicología",
-        "img": "img/curso9.jpg"
+        "img": "../img/psicologia.png"
     },
     {
         "id": "10",
@@ -87,7 +87,7 @@
         "description": "Aprende los principios básicos de la nutrición y cómo aplicarlos para mejorar la salud y el bienestar. Este curso cubre temas como dieta equilibrada, nutrientes esenciales y hábitos alimenticios saludables.",
         "year": "2018",
         "area": "Salud",
-        "img": "img/curso10.jpg"
+        "img": "../img/nutricion-salud.jpg"
     },
     {
         "id": "11",
@@ -96,7 +96,7 @@
         "description": "Domina las técnicas y herramientas para la gestión eficaz de proyectos, desde la planificación hasta la ejecución y el cierre. Este curso es fundamental para profesionales que lideran proyectos en cualquier industria.",
         "year": "2019",
         "area": "Negocios",
-        "img": "img/curso11.jpg"
+        "img": "../img/gestion-proyectos.webp"
     },
     {
         "id": "12",
@@ -105,7 +105,7 @@
         "description": "Explora las obras más importantes de la literatura clásica, desde la antigua Grecia hasta la época moderna. Este curso analiza obras y autores destacados, así como su relevancia cultural e histórica.",
         "year": "2017",
         "area": "Literatura",
-        "img": "img/curso12.jpg"
+        "img": "../img/literatura.jpg"
     },
     {
         "id": "13",
@@ -114,7 +114,7 @@
         "description": "Este curso explora la relación entre la música y la creatividad, examinando cómo la música puede inspirar y potenciar la creatividad en diversas áreas de la vida.",
         "year": "2020",
         "area": "Arte",
-        "img": "img/curso13.jpg"
+        "img": "../img/musica.jpg"
     },
     {
         "id": "14",
@@ -123,7 +123,7 @@
         "description": "Descubre las principales corrientes artísticas y obras maestras a lo largo de la historia del arte. Este curso examina estilos, movimientos y artistas destacados en diversas épocas y culturas.",
         "year": "2016",
         "area": "Arte",
-        "img": "img/curso14.jpg"
+        "img": "../img/historia-arte.jpg"
     },
     {
         "id": "15",
@@ -131,7 +131,8 @@
         "price": "$70",
         "description": "Aprende estrategias y herramientas clave para el marketing en línea, incluyendo SEO, redes sociales, publicidad digital y análisis de datos. Este curso es esencial para profesionales de marketing en la era digital.",
         "year": "2021",
-        "area": "Negocios"
+        "area": "Negocios",
+        "img" : "../img/marketing.jpg"
     }
 
 ]
