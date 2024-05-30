@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "name": "DragonBox Algebra",
+        "price": "$4.99",
+        "description": "Un juego que enseña álgebra de una manera divertida y accesible para niños.",
+        "year": "2012",
+        "company": "WeWantToKnow AS",
+        "img": "dragonbox_algebra.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Minecraft Education Edition",
+        "price": "Varía",
+        "description": "Permite a los estudiantes explorar, crear y aprender en un entorno virtual de construcción de bloques.",
+        "year": "2016",
+        "company": "Mojang Studios",
+        "img": "minecraft_education.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Kerbal Space Program",
+        "price": "$39.99",
+        "description": "Un simulador de vuelo espacial que enseña los principios de la física y la ingeniería a través de la exploración espacial.",
+        "year": "2015",
+        "company": "Squad",
+        "img": "kerbal_space_program.jpg"
+    },
+    {
+        "id": "4",
+        "name": "CodeCombat",
+        "price": "Gratis con opciones de pago",
+        "description": "Enseña programación a través de la gamificación, permitiendo a los jugadores resolver puzzles mientras aprenden a codificar.",
+        "year": "2014",
+        "company": "CodeCombat LLC",
+        "img": "codecombat.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Scribblenauts",
+        "price": "$19.99",
+        "description": "Fomenta la creatividad y el pensamiento lateral al permitir a los jugadores resolver problemas utilizando objetos que ellos mismos crean.",
+        "year": "2009",
+        "company": "5th Cell",
+        "img": "scribblenauts.jpg"
+    },
+    {
+        "id": "6",
+        "name": "The Oregon Trail",
+        "price": "Varía",
+        "description": "Un juego clásico que enseña historia y habilidades de gestión al simular un viaje por la Ruta de Oregón en el siglo XIX.",
+        "year": "1971",
+        "company": "MECC",
+        "img": "oregon_trail.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Spore",
+        "price": "$19.99",
+        "description": "Permite a los jugadores crear y evolucionar sus propias criaturas, enseñando conceptos de biología y evolución.",
+        "year": "2008",
+        "company": "Maxis",
+        "img": "spore.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Brain Age",
+        "price": "Varía",
+        "description": "Desarrollado por Nintendo para la Nintendo DS, este juego ofrece una serie de actividades diseñadas para estimular el cerebro y mejorar las habilidades cognitivas.",
+        "year": "2005",
+        "company": "Nintendo",
+        "img": "brain_age.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Math Blaster",
+        "price": "Varía",
+        "description": "Dirigido a niños en edad escolar, este juego combina matemáticas y acción espacial para hacer que el aprendizaje sea divertido.",
+        "year": "1983",
+        "company": "Davidson & Associates",
+        "img": "math_blaster.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Civilization Series",
+        "price": "Varía",
+        "description": "Aunque no se centra específicamente en la educación, estos juegos de estrategia histórica pueden enseñar a los jugadores sobre civilizaciones, historia y toma de decisiones.",
+        "year": "1991",
+        "company": "Firaxis Games",
+        "img": "civilization_series.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Geoguessr",
+        "price": "Gratis con opciones de pago",
+        "description": "Un juego basado en web que utiliza imágenes de Google Street View para desafiar a los jugadores a adivinar la ubicación de todo el mundo.",
+        "year": "2013",
+        "company": "Anton Wallén",
+        "img": "geoguessr.jpg"
+    },
+    {
+        "id": "12",
+        "name": "TypingClub",
+        "price": "Gratis",
+        "description": "Una plataforma en línea que enseña mecanografía a través de lecciones interactivas y juegos.",
+        "year": "2012",
+        "company": "TypingClub",
+        "img": "typingclub.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Mathletics",
+        "price": "Varía",
+        "description": "Una plataforma educativa en línea que ofrece actividades de matemáticas adaptativas y desafiantes para estudiantes.",
+        "year": "2005",
+        "company": "3P Learning",
+        "img": "mathletics.jpg"
+    },
+    {
+        "id": "14",
+        "name": "The Sims",
+        "price": "Varía",
+        "description": "Aunque no es estrictamente educativo, The Sims puede enseñar habilidades de gestión y toma de decisiones a través de la simulación de la vida cotidiana.",
+        "year": "2000",
+        "company": "Maxis",
+        "img": "the_sims.jpg"
+    },
+    {
+        "id": "15",
+        "name": "World of Goo",
+        "price": "$9.99",
+        "description": "Un juego de rompecabezas físicos que desafía a los jugadores a construir estructuras utilizando pequeñas criaturas llamadas 'goos'.",
+        "year": "2008",
+        "company": "2D Boy",
+        "img": "world_of_goo.jpg"
+    }
+]
