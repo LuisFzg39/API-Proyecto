@@ -16,10 +16,10 @@
         "id": "2",
         "name": "En Clase sí se Juega",
         "price": "10.000$",
-        "description": "",
-        "author": "Nombre Apellido",
-        "year": "2000",
-        "editorial": "",
+        "description": "La premisa principal del libro es que el juego debe estar presente en la escuela, lugar que debe ofrecer espacios y tiempos lúdicos para los alumnos y alumnas, el juego que eje vertebrador de un programa didáctico que apoye todas las fases del desarrollo escolar.",
+        "author": " Manuel L. Sánchez Montero",
+        "year": "2021",
+        "editorial": "Casa del Libro Colombia",
         "img": "../img/libro2.jpg"
     },  
 
